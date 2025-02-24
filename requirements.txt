@@ -1,0 +1,5 @@
+python-dotenv
+sqlalchemy>=2.0.0
+pandas>=2.0.0
+openai-whisper
+yt-dlp

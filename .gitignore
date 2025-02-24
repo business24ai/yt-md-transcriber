@@ -1,0 +1,11 @@
+.DS_Store
+.venv
+venv*/
+.cache*/
+__pycache__*/
+OAI_CONFIG_LIST
+downloads*/
+.idea
+.env
+.env.backup
+client_secret.json
